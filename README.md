@@ -13,8 +13,11 @@
 3. 커밋하기
 4. 푸시하기
 ### 소스 코드 삽입하기
+
+```Javascript
 <script>
   let now = new Date();
   let display = now.toLocaleTimeString();
   document.write(`현재 시각은 ${display}입니다.`);
 </script>
+```
