@@ -21,3 +21,4 @@
   document.write(`현재 시각은 ${display}입니다.`);
 </script>
 ```
+<https://github.com/scw060104-droid/test-1/blob/main/README.md>
