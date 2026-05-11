@@ -12,3 +12,9 @@
 2. 지역 저장소 연결하기
 3. 커밋하기
 4. 푸시하기
+### 소스 코드 삽입하기
+<script>
+  let now = new Date();
+  let display = now.toLocaleTimeString();
+  document.write(`현재 시각은 ${display}입니다.`);
+</script>
